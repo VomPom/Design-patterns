@@ -1,4 +1,3 @@
-# Design-patterns
 # 设计模式
 
 ## 设计模式的六大原则
